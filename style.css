@@ -39,4 +39,16 @@ html{
     }
 
 
+/* jak udělat, aby se obrazy střídaly
+
+
+
+.progress:nth-child(odd) .img {
+    order: 2;
+  }
+  
+  .progress:nth-child(odd) .text {
+    order: 1;
+  } */
+
 
