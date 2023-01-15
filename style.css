@@ -1,0 +1,42 @@
+html{
+    box-sizing: border-box;
+    }
+    *,
+    *:before,
+    *:after{
+    box-sizing: inherit;
+    }
+
+    h1 {
+        text-align: center;
+    }
+
+    img {
+        display: flex;
+        width: 45%;
+        height: auto;
+    }
+
+    .progress {
+        display: flex;
+        flex-direction: row;
+        padding: 5% 0 5% 5%;
+    }
+
+    .text {
+        display: flex;
+        width: 40%;
+        padding-right: 10%;
+        flex-direction: column;
+        align-content: space-between;
+    }
+
+
+    .complet {
+        display: flex;
+        flex-wrap: wrap;
+
+    }
+
+
+
